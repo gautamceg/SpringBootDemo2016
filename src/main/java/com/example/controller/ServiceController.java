@@ -9,6 +9,6 @@ public class ServiceController {
 	@RequestMapping("/")
 	@ResponseBody
 	public String welcome(){
-		return "Welcome --- It works: SpringBootDemo2016";
+		return "Welcome ---- It works: SpringBootDemo2016";
 	}
 }
